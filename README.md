@@ -151,6 +151,18 @@ src/
  ├── App.js
  └── index.js
 
+ src/
+ ├── pages/
+ │     ├── Login.js
+ │     ├── List.js
+ │     ├── Details.js
+ │     ├── PhotoResult.js
+ │     └── SalaryChart.js
+ ├── App.js
+ ├── index.js
+
+ 
+
 
 
 
