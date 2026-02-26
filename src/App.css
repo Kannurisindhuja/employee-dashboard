@@ -1,0 +1,157 @@
+/* Global Body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8; /* light blue-gray background */
+  margin: 0;
+  padding: 0;
+}
+
+/* Container for all pages */
+.container {
+  max-width: 700px;
+  margin: 50px auto;
+  padding: 30px;
+  background-color: #ffffff; /* white card */
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+}
+
+/* Headings */
+h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Input fields */
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+
+/* Buttons */
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
+
+/* Images in list/details/photos */
+img {
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+/* Button groups (e.g., Details page) */
+.button-group {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+/* Salary Chart container */
+.salary-chart-container {
+  text-align: center;
+  background-color: #e8f0fe; /* light blue background for chart */
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Chart title */
+.salary-chart-title {
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+/* Chart bar image labels (if using images on bars) */
+.chart-label-image {
+  border-radius: 50%;
+}/* Full screen gradient background */
+.login-background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  font-family: 'Arial', sans-serif;
+}
+
+/* Card container */
+.login-card {
+  background-color: #fff;
+  padding: 40px 30px;
+  border-radius: 12px;
+  box-shadow: 0 12px 28px rgba(0,0,0,0.2);
+  width: 350px;
+  text-align: center;
+}
+
+/* Title */
+.login-title {
+  margin-bottom: 30px;
+  color: #333;
+  font-size: 24px;
+}
+
+/* Inputs */
+.login-input {
+  width: 100%;
+  padding: 12px;
+  margin: 12px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+/* Button */
+.login-button {
+  width: 100%;
+  padding: 12px;
+  background-color: #667eea;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: background 0.3s ease;
+}
+
+.login-button:hover {
+  background-color: #5a67d8;
+}
