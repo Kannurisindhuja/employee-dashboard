@@ -125,39 +125,6 @@ npm start         # or yarn start
 6. Logout → clears storage
 
 
-🗂 Project Structure
-
-employee-app/
-│
-├── node_modules/
-├── public/
-│
-└── src/
-    │
-    ├── pages/
-    │     ├── Login.js
-    │     ├── List.js
-    │     ├── Details.js
-    │     ├── PhotoResult.js
-    │     └── SalaryChart.js
-    │
-    ├── App.js
-    └── index.js
-
-src/
- ├── pages/
- │     ├── Login.js
- │     ├── List.js
- │     ├── Details.js
- │     ├── PhotoResult.js
- │     └── SalaryChart.js
- ├── App.js
- └── index.js
- 
-
- 
-
-
 📊 Data Visualization (Creativity Section)
 
 ✅ Bar Graph
