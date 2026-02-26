@@ -125,6 +125,19 @@ npm start         # or yarn start
 6. Logout → clears storage
 
 
+🗂 Project Structure
+
+src/
+ ├── pages/
+ │     ├── Login.js
+ │     ├── List.js
+ │     ├── Details.js
+ │     ├── PhotoResult.js
+ │     └── SalaryChart.js
+ ├── App.js
+ └── index.js
+
+
 📊 Data Visualization (Creativity Section)
 
 ✅ Bar Graph
@@ -139,27 +152,8 @@ Implemented using chart library (e.g., Chart.js / Recharts)
 
 Visual representation of employee salary statistics.
 
-🗂 Project Structure
 
-src/
- ├── pages/
- │     ├── Login.js
- │     ├── List.js
- │     ├── Details.js
- │     ├── PhotoResult.js
- │     └── SalaryChart.js
- ├── App.js
- └── index.js
 
- src/
- ├── pages/
- │     ├── Login.js
- │     ├── List.js
- │     ├── Details.js
- │     ├── PhotoResult.js
- │     └── SalaryChart.js
- ├── App.js
- ├── index.js
 
  
 
