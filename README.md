@@ -10,6 +10,17 @@ Includes login authentication, protected routing, dashboard UI, and clean compon
 
 
 
+| Purpose    | Markdown     |        |        |   |
+| ---------- | ------------ | ------ | ------ | - |
+| Heading    | `# Heading`  |        |        |   |
+| Bold       | `**text**`   |        |        |   |
+| Table      | `            | column | column | ` |
+| Code       | `` `code` `` |        |        |   |
+| Code Block | ```bash      |        |        |   |
+
+
+
+
 🌟 Features
 Category	                           Features
 
