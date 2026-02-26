@@ -136,6 +136,24 @@ src/
  │     └── SalaryChart.js
  ├── App.js
  └── index.js
+ src/
+├── components/
+│   └── Dashboard/       # Dashboard UI components
+│       ├── EmployeeForm.jsx
+│       ├── EmployeeTable.jsx
+│       └── SummaryCard.jsx
+├── context/
+│   └── AuthContext.jsx  # Auth state & logic
+├── pages/
+│   ├── DashboardPage.jsx
+│   └── LoginPage.jsx
+├── services/
+│   └── employeeService.js  # localStorage CRUD
+├── utils/
+│   └── validation.js       # Form validation
+├── App.js
+├── index.js
+└── styles.css              # Global styles + print media
 
 
 📊 Data Visualization (Creativity Section)
