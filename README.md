@@ -73,18 +73,25 @@ npm or yarn
 
 🚀 Steps
 1️⃣ Clone Repository
+
 git clone https://github.com/Kannurisindhuja/employee-dashboard.git
+
 cd employee-dashboard
 
 2️⃣ Install Dependencies
+
 npm install       # or yarn install
 
 3️⃣ Start Application
+
 npm start         # or yarn start
 
 4️⃣Open in browser
+
         App runs on:http://localhost:3001
+		
 		Login credentials:
+		
                    Username: test
                    Password: 123456
 
